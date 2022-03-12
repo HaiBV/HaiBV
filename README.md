@@ -30,18 +30,14 @@
 
 <details>
   <summary>:zap: #DevCard</summary>
-  <div>
-    <a href="https://app.daily.dev/buivuhaibk"><img src="https://api.daily.dev/devcards/d0fefd4fad104b3eaa0277c958cd1481.png?r=cra" width="400" alt="Hải Bùi Vũ's Dev Card"/></a>
-  </div>    
+  <a href="https://app.daily.dev/buivuhaibk"><img src="https://api.daily.dev/devcards/d0fefd4fad104b3eaa0277c958cd1481.png?r=cra" width="400" alt="Hải Bùi Vũ's Dev Card"/></a>
 </details>
 
 <br />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <div>
-    <img align="left" alt="HaiBV's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HaiBV&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-  </div>
+  <img alt="HaiBV's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HaiBV&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 </details>
 
 ---
