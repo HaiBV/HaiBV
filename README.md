@@ -1,6 +1,6 @@
 # Hi there, I'm Harvey 👋
 
-## I'm a Husband, and a Craftsman Developer
+## I'm a Father, a Husband, and a Craftsman Developer
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
