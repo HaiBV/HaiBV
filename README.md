@@ -2,13 +2,15 @@
 
 ## I'm a Father, a Husband, and a Craftsman Developer
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🔭 I'm currently working on Web Development
+- 🌱 I'm eager to learn (currently learning Python)
+- 👯 I'm looking to collaborate on Data Science or Web Development
+- 😄 Pronouns: He/Him/His
 
-### Connect with me:
+### Connect with me:  
 
-[![website](./img/globe-light.svg)](https://easycoding.vn#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://easycoding.vn#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://standupcoder.com/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://standupcoder.com/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/github-light.svg)](https://github.com/HaiBV#gh-light-mode-only)
 [![website](./img/github-dark.svg)](https://github.com/HaiBV#gh-dark-mode-only)
