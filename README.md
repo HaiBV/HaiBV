@@ -39,6 +39,10 @@
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HaiBV&hide_border=true&theme=dracula)](https://git.io/streak-stats)
 <!-- </details> -->
+### Leetcode
+
+  ![LeetCode Stats](https://leetcode.card.workers.dev/HaiBV?theme=auto&font=baloo&extension=null)
+
 
 <br />
 
