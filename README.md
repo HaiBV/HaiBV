@@ -1,4 +1,6 @@
-# Hi there, I'm Harvey 👋
+<div style="width: 100%;">
+  <img src="img/welcome.svg" style="width: 100%;" alt="Click to see the source">
+</div>
 
 ## I'm a Father, a Husband, and a Craftsman Developer
 
